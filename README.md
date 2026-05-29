@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Vishwa+A+%F0%9F%91%8B" alt="Typing SVG" />
+ <<img src="https://media.giphy.com/media/n7dghIPDEXeSI/giphy.gif" width="100"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Vishwa+A+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <p align="center">
