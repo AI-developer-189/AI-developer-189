@@ -1,8 +1,9 @@
 <h1 align="center">Vishwa A 👋</h1>
+<br>
 <br />
 <h3 align="center">🎓 **B.Tech – Artificial Intelligence & Data Science**  </h3>
 <h3 align="center">🏫 Kongu Engineering College, Perundurai  </h3>
-
+<br>
 <br />
 
 <h3 align="center">
@@ -12,6 +13,9 @@ AI & Full Stack Developer | Machine Learning Enthusiast | JAVA Certified
 <p align="center">
 Building scalable healthcare and career-guidance solutions using AI, NLP, and modern web technologies.
 </p> 
+
+<br>
+<br />
 
 # 🏆 Certifications
 - MongoDB Associate Developer (2025)
