@@ -1,50 +1,21 @@
 <h1 align="center">Vishwa A 👋</h1>
+<br />
+<h3 align="center">🎓 **B.Tech – Artificial Intelligence & Data Science**  </h3>
+<h3 align="center">🏫 Kongu Engineering College, Perundurai  </h3>
 
-🎓 **B.Tech – Artificial Intelligence & Data Science**  
-🏫 Kongu Engineering College, Perundurai  
+<br />
 
----
+<h3 align="center">
+AI & Full Stack Developer | Machine Learning Enthusiast | JAVA Certified
+</h3>
 
-## 🚀 Profile
-3rd-year AI & Data Science student with strong interest in programming, DSA, and real-world project development. Actively preparing for placements and internships.
+<p align="center">
+Building scalable healthcare and career-guidance solutions using AI, NLP, and modern web technologies.
+</p> 
 
----
-
-## 🛠 Skills
-
-### 🤖 Artificial Intelligence
-- Open CV  
-- Machine Learning Basics  
-- Deep learning  
-
-### 🌐 Full Stack Development
-- HTML, CSS  
-- React  
-- Basic Backend Concepts (Node.js, Express)
-
-### 💻 Core Computer Science
-- Data Structures & Algorithms  
-- Object-Oriented Programming (Java)  
-
----
-
-## 📂 Projects
-
-### 🔹 Deep Learning
-- Violence Recognition System (knight owl)
-- Driver's Drowsiness Detection
-
-### 🔹 Web Development
-- Car Rental Management System *(Currently Working)*  
-- MERN Stack Applications  
-
----
-
-## 📚 Currently Learning
-- TypeScript  
-- Next.js  
-
----
+# 🏆 Certifications
+- MongoDB Associate Developer (2025)
+- Oracle Java SE 17 Developer (2026)
 
 ## 🌐 Portfolio & Links
 - 💻 GitHub: https://github.com/AI-developer-189  
