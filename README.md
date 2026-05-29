@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="60"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Vishwa+A+%F0%9F%91%8B" alt="Typing SVG" />
+ <iframe src="https://giphy.com/embed/kuWN0iF9BLQKk" width="480" height="343" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/pokemon-running-kuWN0iF9BLQKk">via GIPHY</a></p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Vishwa+A+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <p align="center">
