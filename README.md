@@ -70,18 +70,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AI-developer-189&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
----
 
-## 🚀 Current Focus
-
-- 🤖 AI & Generative AI Applications
-- 🌐 MERN Stack Development
-- 🏥 Healthcare AI Solutions
-- 🎯 Career Guidance Platforms
-- 📚 Data Structures & Algorithms
-
----
 
 ## 💡 Quote
 
-> "Artificial Intelligence is not replacing humans; it is empowering them to achieve more."
+> "TO MAKE THE WORLD A BETTER PLACE ; LEARNING IS ELEGANT."
